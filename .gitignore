@@ -1,0 +1,17 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Mac
+.DS_Store
+
+# Backups
+*.bak
+
+# Local material
+.local
+
+# Maven
+target
